@@ -4,6 +4,6 @@ import (
     "fmt"
 )
 func main() {
-        fmt.Println("Version:")
+        fmt.Println("Hello LiuManJun")
 }
 
